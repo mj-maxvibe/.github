@@ -1,16 +1,17 @@
-# Maxvibe
+# .github
 
-**Maxvibe** is a web and digital agency delivering custom software products,
-websites, digital marketing and SEO.
+This repository holds the organization profile and shared GitHub defaults
+for all Maxvibe repositories.
 
-Every project is designed, built and secured by experienced software engineers
-and cybersecurity specialists. We use modern tools, AI included, to move faster,
-but architecture, code quality and security always stay in human hands.
+## Contents
 
-This organization is home to:
+- `profile/README.md`: the public profile shown on the Maxvibe organization page
+- `SECURITY.md`: how to report security vulnerabilities
+- `CONTRIBUTING.md`: contribution guidelines
+- `ISSUE_TEMPLATE/`: default issue templates
+- `PULL_REQUEST_TEMPLATE.md`: default pull request template
 
-- **www.maxvibe.bg**: our own website
-- **Client projects**: software, websites and web apps we build for our clients
-- **Tools & experiments**: templates, starters and internal utilities that power our work
+Files placed here apply to every repository in the organization
+that doesn't define its own version.
 
 🌐 [www.maxvibe.bg](https://www.maxvibe.bg)
