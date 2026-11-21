@@ -1,6 +1,6 @@
-# Maxvibe
+# MAXvibe
 
-**Maxvibe** is a web and digital agency delivering custom software products,
+**MAXvibe** is a web and digital agency delivering custom software products,
 websites, digital marketing and SEO.
 
 Every project is designed, built and secured by experienced software engineers
