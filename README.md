@@ -5,7 +5,7 @@ for all Maxvibe repositories.
 
 ## Contents
 
-- `profile/README.md`: the public profile shown on the Maxvibe organization page
+- `profile/README.md`: the public profile shown on the MAXvibe organization page
 - `SECURITY.md`: how to report security vulnerabilities
 - `CONTRIBUTING.md`: contribution guidelines
 - `ISSUE_TEMPLATE/`: default issue templates
